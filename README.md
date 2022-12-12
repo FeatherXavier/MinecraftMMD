@@ -1,5 +1,6 @@
 <h1> MinecraftMMD</h1>
 Minecraft式的vrm模型工作流<br>
+使用教程:<link>https://www.bilibili.com/video/BV11W4y1M7u4<br>
 
 <h2>这个项目到底是为了什么</h2>
 让大家能以最低成本获得(放哪里不那么违和的?)vrm模型<br>
