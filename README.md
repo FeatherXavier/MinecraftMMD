@@ -16,4 +16,7 @@ Minecraft式的vrm模型工作流<br>
 ***注意:使用此模型的骨骼数据时,应在vrm的Author中注明"using FeatherXavier's rig data"***<br>
 2]将此模型嵌入游戏或软件<br>
 
+<h2>工具链</h2>
+UniVRM:<link>https://github.com/vrm-c/UniVRM/releases<br>
+
 <h3>最后祝你玩得开心awa</h3>
